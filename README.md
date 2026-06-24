@@ -50,10 +50,7 @@ Developed 7 SQL queries to analyse interview attendance, no-show counts, resched
 
 ## Dashboard
 
-### Interview Reminder System Dashboard
-
-![Dashboard](Dashboard/Interview%20reminder%20pjct.PNG)
-
+![Interview No-Show Dashboard](./Dashboard/Interview-Noshow-Reduction%20System.PNG)
 ---
 
 ## Project Deliverables
